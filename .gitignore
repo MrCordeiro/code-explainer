@@ -161,3 +161,7 @@ cython_debug/
 
 # VSCode
 .vscode/
+
+# Project
+explanation.mp3
+language.mp3
